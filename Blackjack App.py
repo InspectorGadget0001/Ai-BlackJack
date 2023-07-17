@@ -23,7 +23,7 @@ Window.size = (1500, 900)
 
 kivy.require('1.0.9')
 
-openai.api_key = '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'  # Replace with your API key
+openai.api_key = 'You're API key here'  # Replace with your API key
 
 # Set up logging
 logging.basicConfig(filename='blackjack.log', level=logging.INFO,
